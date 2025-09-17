@@ -103,9 +103,8 @@ else:
 print(conta2.saldo)
 
 
-# =============================
 # 7 - Aluno e Turma
-# =============================
+
 class Aluno:
     def __init__(self, nome, nota):
         self.nome = nome
